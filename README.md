@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balajidev89
 - 👀 I’m interested in coding, technology enthusiast.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m a data scientist.
 - 💞️ I’m looking to collaborate on ETL Projects and Data Science Projects
 - 📫 How to reach me balaji89.rkrishnan@gmail.com
 
